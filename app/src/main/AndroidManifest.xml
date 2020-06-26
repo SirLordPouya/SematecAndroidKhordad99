@@ -20,7 +20,7 @@
         </activity>
         <activity android:name=".TestVideoViewActivity">
         </activity>
-        <activity android:name=".TestDrawerActivity"></activity>
+        <activity android:name=".TestDrawerActivity"/>
         <activity android:name=".TestWebViewActivity" />
         <activity android:name=".MainActivity" />
     </application>
