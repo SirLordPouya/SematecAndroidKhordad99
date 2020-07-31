@@ -18,7 +18,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
         final TextView txtName = findViewById(R.id.txtName);
         final TextView txtFamily = findViewById(R.id.txtFamily);
         Button btnSave = findViewById(R.id.btnSave);
